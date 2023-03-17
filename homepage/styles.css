@@ -1,0 +1,36 @@
+.bg {
+
+    background-image: url("hip.jpeg");
+
+
+
+    height: 100vh;
+    margin: 0;
+
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .container {
+    width: 60%;
+  }
+
+  .burger {
+
+    text-align: center;
+  }
+
+  .image1 {
+
+  }
+
+  .es {
+
+    text-align: center;
+    background-color: lightblue;
+  }
+
+
+
